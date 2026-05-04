@@ -1,0 +1,11 @@
+{
+  "id": "StarterRelic",
+  "name": "StarterRelic",
+  "author": "James",
+  "description": "Adds configured relics at the start of a run.",
+  "version": "1.0.2",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
