@@ -5,8 +5,10 @@
 - Supports multiple relics
 - Supports both newline and comma-separated formats
 
+```
 Slay the Spire 2\mods\
   StarterRelic.dll
   StarterRelic.json
   StarterRelic\
     config.txt
+```
