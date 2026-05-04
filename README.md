@@ -6,7 +6,8 @@
 - Supports both newline and comma-separated formats
 
 In the config.txt file, you can add the list of relics you want for the game.  
-Relic Name should be like --> BLOOD_VIAL or blood_vial
+Relic Name should be like --> BLOOD_VIAL or blood_vial  
+
 Relic Name should NOT be like --> BLOOD VIAL or blood vial  
 
 ```
