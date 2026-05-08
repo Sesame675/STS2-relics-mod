@@ -4,6 +4,7 @@
 - No UI required — fully config-driven
 - Supports multiple relics
 - Supports both newline and comma-separated formats
+能改你开局拥有哪些遗物
 
 In the config.txt file, you can add the list of relics you want for the game.  
 Relic Name should be like --> BLOOD_VIAL or blood_vial  
@@ -12,6 +13,8 @@ Relic Name should NOT be like --> BLOOD VIAL or blood vial
 The mods folder is for current public common version - 2026/04/16  
 The public-beta mods folder is for the public beta version - 2026/05/07  
 
+### Installation / 安装  
+把这些文件放到这个文件夹里
 Please place the mods as follow in the corresponding folder  
 i.e., C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\mods
 ```
