@@ -67,6 +67,8 @@ public static class RelicStarterPatch
             .Where(x => x.Length > 0)
             .ToList();
     }
+
+// 这个接口在public beta版本改了，得用RelicCmd了
 /*
     private static async Task AddRelic(Player player, string relicName)
     {
