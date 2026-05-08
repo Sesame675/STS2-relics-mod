@@ -3,7 +3,7 @@
 - Add any relic(s) at the start of a run
 - No UI required — fully config-driven
 - Supports multiple relics
-- Supports both newline and comma-separated formats
+- Supports both newline and comma-separated formats  
 能改你开局拥有哪些遗物
 
 In the config.txt file, you can add the list of relics you want for the game.  
