@@ -10,9 +10,10 @@ Relic Name should be like --> BLOOD_VIAL or blood_vial
 Relic Name should NOT be like --> BLOOD VIAL or blood vial  
 
 The mods folder is for current public common version - 2026/04/16  
-The public-beta mods folder is for the public beta version - 2026/05/07
+The public-beta mods folder is for the public beta version - 2026/05/07  
 
-
+Please place the mods as follow in the corresponding folder  
+i.e., C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\mods
 ```
 Slay the Spire 2\mods\
   StarterRelic.dll
